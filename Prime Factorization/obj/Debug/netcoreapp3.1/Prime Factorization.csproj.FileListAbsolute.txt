@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.exe
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.deps.json
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.dll
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\bin\Debug\netcoreapp3.1\Prime Factorization.pdb
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.dll
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.pdb
+C:\Users\Huy Le\source\repos\Prime Factorization\Prime Factorization\obj\Debug\netcoreapp3.1\Prime Factorization.genruntimeconfig.cache
